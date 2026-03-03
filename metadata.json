@@ -1,0 +1,5 @@
+{
+  "name": "Galea Ticket System",
+  "description": "A ticket system for Galea-cluster with secure password storage and Keycloak API authentication.",
+  "requestFramePermissions": []
+}
